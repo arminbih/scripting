@@ -1,0 +1,7 @@
+otvoriti powershell with admin rights 
+
+Set-ExecutionPolicy Unrestricted
+
+kliknuti Y ili A
+
+pokrenuti skriptu
