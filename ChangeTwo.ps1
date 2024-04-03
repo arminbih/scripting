@@ -1,5 +1,5 @@
 ﻿# Specify the path to your text file
-$filePath = "C:\Users\armin.becirspahic\Desktop\ras poredjenje\55508824_ispravka_ps.RAS"
+$filePath = "PATH"
 
 
 
